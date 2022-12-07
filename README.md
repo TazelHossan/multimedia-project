@@ -41,7 +41,7 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 7.`Umma Salma - 302`
 
 
-## Brief Intrduction:
+## Brief Intrduction
 <img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide1.PNG" width="720" >
 
 
