@@ -45,24 +45,30 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 <img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide1.PNG" width="512" >
 
 
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature2_by_tazel.gif" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide2.PNG" width="512" >
 
 
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_munny.gif" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide3.PNG" width="512" >
 
 
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_sohana.gif" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide4.PNG" width="512" >
 
 
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_munia.gif" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide5.PNG" width="512" >
 
 
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_prema.gif" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide6.PNG" width="512" >
 
 
-<img src="https://github.com/JU-CSE-27/swe-wiki/blob/master/resources/feature_by_akash.gif" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide7.PNG" width="512" >
 
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide8.PNG" width="512" >
 
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide9.PNG" width="512" >
+
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide10.PNG" width="512" >
+
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide11.PNG" width="512" >
 
 ![.https://github.com/TazelHossan/multimedia-project/tree/main/README.md](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
