@@ -1,4 +1,4 @@
-# multimedia-project
+# Multimedia Project
 
 <h2 align="center">Project Name: An infographic map project </h2>
 
@@ -32,43 +32,43 @@
 ## Team-JUNewBee
 We are JUNewBee from CSE at JU, and We do content on Design and Development of JU info graphic Map. We really enjoy learning some tools like Adobe XD, GitHub, GIMP, Google Earth Studio etc. We also enjoy to do work as a team. 
 ## Team Members
-1.`Md.Tazel Hossan` \
-2.`Mushfika Ikfat Munia` \
-3.`Kamelia Zaman Moon` \
-4.`Pallabi Biswas` \
-5.`Tabia Tanzin Prama` \
-6.`Manas Sarker Akash` \
-7.`Umma Salma`
+1.`Md.Tazel Hossan - 1921` \
+2.`Mushfika Ikfat Munia - 2319` \
+3.`Kamelia Zaman Moon - 299` \
+4.`Pallabi Biswas - 300` \
+5.`Tabia Tanzin Prama - 309` \
+6.`Manas Sarker Akash - 2321` \
+7.`Umma Salma - 302`
 
 
 ## Brief Intrduction:
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide1.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide1.PNG" width="720" >
 
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide2.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide2.PNG" width="720" >
 
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide3.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide3.PNG" width="720" >
 
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide4.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide4.PNG" width="720" >
 
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide5.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide5.PNG" width="720" >
 
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide6.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide6.PNG" width="720" >
 
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide7.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide7.PNG" width="720" >
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide8.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide8.PNG" width="720" >
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide9.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide9.PNG" width="720" >
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide10.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide10.PNG" width="720" >
 
-<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide11.PNG" width="512" >
+<img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide11.PNG" width="720" >
 
 ![.https://github.com/TazelHossan/multimedia-project/tree/main/README.md](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
